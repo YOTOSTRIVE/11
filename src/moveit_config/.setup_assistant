@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: jaka_rviz
+    relative_path: urdf/jaka_zu7.urdf
+    xacro_args: ""
+  SRDF:
+    relative_path: config/jaka_zu7.srdf
+  CONFIG:
+    author_name: gyq
+    author_email: gyq@163.com
+    generated_timestamp: 1690247467
